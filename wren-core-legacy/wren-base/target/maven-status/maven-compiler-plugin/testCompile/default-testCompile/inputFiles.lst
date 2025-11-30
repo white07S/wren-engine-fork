@@ -1,0 +1,17 @@
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/dto/TestMacro.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/dto/TestManifestSerDe.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/dto/TestRelationship.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/jinjava/TestJinjavaExpressionProcessor.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/AbstractTestFramework.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/AbstractTestModel.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestAllRulesRewrite.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestCumulativeMetric.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestEnumRewrite.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestExpressionRelationshipRewriter.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestMetric.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestModelRefSql.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestModelTableReference.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestView.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/TestWrenDataLineage.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/analyzer/TestDecisionPointAnalyzer.java
+/home/remote/wren-engine/wren-core-legacy/wren-base/src/test/java/io/wren/base/sqlrewrite/analyzer/TestStatementAnalyzer.java

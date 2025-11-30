@@ -1,0 +1,17 @@
+io/wren/testing/TestAnalysisResource.class
+io/wren/testing/AbstractFunctionTest.class
+io/wren/testing/TestConfigResource.class
+io/wren/testing/duckdb/TestStartWithDuckDB.class
+io/wren/testing/duckdb/TestFunctionDuckDB.class
+io/wren/testing/duckdb/TestDuckDBSqlConverter.class
+io/wren/testing/duckdb/TestWrenWithDuckDBTableFunction.class
+io/wren/testing/TestDuckDBResource.class
+io/wren/testing/WebApplicationExceptionAssert.class
+io/wren/testing/RequireWrenServer.class
+io/wren/testing/TestBackwardSupportConfig.class
+io/wren/testing/duckdb/TestDynamicFields.class
+io/wren/testing/TestMDLResourceV2.class
+io/wren/testing/AbstractTestFramework.class
+io/wren/testing/TestMDLResource.class
+io/wren/testing/AbstractSqlConverterTest.class
+io/wren/testing/duckdb/TestWrenWithDuckDB.class

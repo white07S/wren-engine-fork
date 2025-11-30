@@ -2,7 +2,6 @@
 *.iml
 *.ipr
 *.iws
-target/
 **/.idea
 .run
 .DS_Store
@@ -14,7 +13,6 @@ target/
 .checkstyle
 .mvn/timing.properties
 .mvn/maven.config
-wren-server/etc
 /**/var/
 __pycache__/
 venv/

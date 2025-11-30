@@ -1,0 +1,17 @@
+io/wren/base/sqlrewrite/TestAllRulesRewrite.class
+io/wren/base/sqlrewrite/TestMetric.class
+io/wren/base/sqlrewrite/AbstractTestModel.class
+io/wren/base/sqlrewrite/TestView.class
+io/wren/base/sqlrewrite/analyzer/TestDecisionPointAnalyzer.class
+io/wren/base/sqlrewrite/TestWrenDataLineage.class
+io/wren/base/sqlrewrite/TestCumulativeMetric.class
+io/wren/base/sqlrewrite/TestModelTableReference.class
+io/wren/base/dto/TestMacro.class
+io/wren/base/sqlrewrite/TestEnumRewrite.class
+io/wren/base/dto/TestRelationship.class
+io/wren/base/sqlrewrite/TestExpressionRelationshipRewriter.class
+io/wren/base/sqlrewrite/AbstractTestFramework.class
+io/wren/base/dto/TestManifestSerDe.class
+io/wren/base/sqlrewrite/analyzer/TestStatementAnalyzer.class
+io/wren/base/sqlrewrite/TestModelRefSql.class
+io/wren/base/jinjava/TestJinjavaExpressionProcessor.class

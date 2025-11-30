@@ -1,0 +1,12 @@
+io/trino/sql/parser/TestStatementBuilder.class
+io/trino/sql/parser/ParserAssert$1.class
+io/trino/sql/parser/TestSqlParserErrorHandling.class
+io/trino/sql/parser/TestStatementSplitter.class
+io/trino/sql/TestSqlFormatter.class
+io/trino/sql/parser/ParserAssert.class
+io/trino/sql/parser/TestTypeParser.class
+io/trino/sql/parser/TestParsingException.class
+io/trino/sql/parser/TreeNodes.class
+io/trino/sql/parser/TestSqlParser.class
+io/trino/type/TestTypeCalculation.class
+io/trino/sql/tree/TestLikePredicate.class

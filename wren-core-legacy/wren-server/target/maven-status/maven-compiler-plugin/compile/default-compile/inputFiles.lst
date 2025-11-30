@@ -1,0 +1,5 @@
+/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/WrenServer.java
+/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/DuckDBConnectorModule.java
+/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/MainModule.java
+/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/OpenTelemetryModule.java
+/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/WebModule.java

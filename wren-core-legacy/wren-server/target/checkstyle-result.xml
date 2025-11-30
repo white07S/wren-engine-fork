@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.26.1">
+<file name="/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/WrenServer.java">
+</file>
+<file name="/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/DuckDBConnectorModule.java">
+</file>
+<file name="/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/OpenTelemetryModule.java">
+</file>
+<file name="/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/WebModule.java">
+</file>
+<file name="/home/remote/wren-engine/wren-core-legacy/wren-server/src/main/java/io/wren/server/module/MainModule.java">
+</file>
+</checkstyle>

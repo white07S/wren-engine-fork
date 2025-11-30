@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="CHECK" timestamp="1764514159636">
+    <module artifactId="wren-server" groupId="io.wren" version="0.22.1-SNAPSHOT"/>
+    <files>
+        <file path="src/main/java/io/wren/server/WrenServer.java" result="PRESENT"/>
+        <file path="src/main/java/io/wren/server/module/DuckDBConnectorModule.java" result="PRESENT"/>
+        <file path="src/main/java/io/wren/server/module/MainModule.java" result="PRESENT"/>
+        <file path="src/main/java/io/wren/server/module/OpenTelemetryModule.java" result="PRESENT"/>
+        <file path="src/main/java/io/wren/server/module/WebModule.java" result="PRESENT"/>
+    </files>
+</licensePluginReport>

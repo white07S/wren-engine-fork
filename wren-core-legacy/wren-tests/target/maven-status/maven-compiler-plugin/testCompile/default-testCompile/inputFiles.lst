@@ -1,0 +1,17 @@
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/AbstractFunctionTest.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/AbstractSqlConverterTest.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/AbstractTestFramework.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/RequireWrenServer.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/TestAnalysisResource.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/TestBackwardSupportConfig.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/TestConfigResource.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/TestDuckDBResource.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/TestMDLResource.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/TestMDLResourceV2.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/WebApplicationExceptionAssert.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/duckdb/TestDuckDBSqlConverter.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/duckdb/TestDynamicFields.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/duckdb/TestFunctionDuckDB.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/duckdb/TestStartWithDuckDB.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/duckdb/TestWrenWithDuckDB.java
+/home/remote/wren-engine/wren-core-legacy/wren-tests/src/test/java/io/wren/testing/duckdb/TestWrenWithDuckDBTableFunction.java
