@@ -1,0 +1,24 @@
+# Systemd service file for ibis-server
+# Copy to: /etc/systemd/system/ibis-server.service
+# Then: sudo systemctl daemon-reload && sudo systemctl enable --now ibis-server
+
+[Unit]
+Description=Wren Engine Ibis Server
+After=network.target
+
+[Service]
+Type=simple
+User=nobody
+Group=nogroup
+WorkingDirectory=/opt/ibis-server
+Environment="PYTHONPATH=/opt/ibis-server"
+Environment="REMOTE_FUNCTION_LIST_PATH=/opt/ibis-server/resources/function_list"
+Environment="REMOTE_WHITE_FUNCTION_LIST_PATH=/opt/ibis-server/resources/white_function_list"
+Environment="PORT=8000"
+Environment="WORKERS=2"
+ExecStart=/opt/ibis-server/venv/bin/gunicorn app.main:app --bind 0.0.0.0:8000 -k uvicorn.workers.UvicornWorker --workers 2
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
