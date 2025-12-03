@@ -2,6 +2,7 @@ default:
     @just --list --unsorted
 
 build-core:
+    rm -f ../wren-core-py/target/wheels/*.whl
     cd ../wren-core-py && just install && just build
 
 core-wheel-path := "../wren-core-py/target/wheels/wren_core_py-*.whl"

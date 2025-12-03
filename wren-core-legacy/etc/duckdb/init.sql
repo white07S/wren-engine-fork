@@ -1,9 +1,6 @@
-CREATE TABLE olist_customers_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_customers_dataset.parquet');
-CREATE TABLE olist_order_items_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_order_items_dataset.parquet');
-CREATE TABLE olist_orders_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_orders_dataset.parquet');
-CREATE TABLE olist_order_payments_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_order_payments_dataset.parquet');
-CREATE TABLE olist_products_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_products_dataset.parquet');
-CREATE TABLE olist_order_reviews_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_order_reviews_dataset.parquet');
-CREATE TABLE olist_geolocation_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_geolocation_dataset.parquet');
-CREATE TABLE olist_sellers_dataset AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/olist_sellers_dataset.parquet');
-CREATE TABLE product_category_name_translation AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/brazilian-ecommerce/product_category_name_translation.parquet');
+CREATE TABLE salaries AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/employees/salaries.parquet');
+CREATE TABLE titles AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/employees/titles.parquet');
+CREATE TABLE dept_emp AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/employees/dept_emp.parquet');
+CREATE TABLE departments AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/employees/departments.parquet');
+CREATE TABLE employees AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/employees/employees.parquet');
+CREATE TABLE dept_manager AS select * FROM read_parquet('https://assets.getwren.ai/sample_data/employees/dept_manager.parquet');

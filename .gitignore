@@ -18,3 +18,8 @@ __pycache__/
 venv/
 **/.env*
 **/*.so
+target/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
